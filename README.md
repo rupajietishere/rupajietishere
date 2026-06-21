@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Rupajiet Bhattacharjee
 
-<!--
-**rupajietishere/rupajietishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Technical Support Engineer with 13+ years of experience.  
+My work has focused on **Linux system programming**, **core analysis using GDB**, and **filesystem expertise**.  
+I also have hands-on skills in **Python**, **MySQL**, and **cloud/container tooling** (Docker, Kubernetes, Helm).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Current Work
+- Supporting and troubleshooting complex systems at Dell Technologies  
+- Specializing in Data Domain Filesystem and Linux Filesystem internals  
+- Working with containerized environments and deployment workflows  
+
+---
+
+## 🔹 Skills Snapshot
+- **Programming:** Python, Linux system programming  
+- **Databases:** MySQL  
+- **Tools:** Docker, Kubernetes, Helm  
+- **Debugging:** Core analysis with GDB  
+
+---
+
+## 🔗 Connect with Me
+- [LinkedIn](https://linkedin.com/in/rupajiet-bhattacharjee-60932769)  
+- [Email](mailto:rupojit@gmail.com)  
