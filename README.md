@@ -14,10 +14,11 @@ My work focuses on **deep system-level diagnostics, post-mortem core dump analys
 ---
 
 ### 🧳 Skills Snapshot
-* **Languages:** C, POSIX C, Python, , Linux Cent OS, Shell Scripting (Bash)
+* **Languages:** C, POSIX C, Python, Linux Cent OS
 * **Debugging & Diagnostics:** GDB (Advanced), Core File Analysis, Kernel Panic Triage, System Tracing (`strace`, `lsof`)
 * **Databases & Systems:** MySQL, Linux Virtual File System (VFS)
-* **Cloud & DevOps:** Docker, Kubernetes, Helm
+* **DevOps & Containers:** Docker, Kubernetes, Helm, Shell Scripting (Bash)
+* **Cloud & Virtualization:** AWS S3, Azure Blob, Object Storage, Hypervisors (VMware ESXi, KVM)
   
 ## 🔗 Connect with Me
 - [LinkedIn](https://linkedin.com/in/rupajiet-bhattacharjee-60932769)  
