@@ -14,10 +14,10 @@ My work focuses on **deep system-level diagnostics, post-mortem core dump analys
 ---
 
 ### 🧳 Skills Snapshot
-* **Languages:** C, POSIX C, Python, Linux Cent OS
+* **Languages:** C, POSIX C, Python, Linux Cent OS, Shell Scripting (Bash)
 * **Debugging & Diagnostics:** GDB (Advanced), Core File Analysis, Kernel Panic Triage, System Tracing (`strace`, `lsof`)
 * **Databases & Systems:** MySQL, Linux Virtual File System (VFS)
-* **DevOps & Containers:** Docker, Kubernetes, Helm, Shell Scripting (Bash)
+* **DevOps & Containers:** Docker, Kubernetes, Helm
 * **Cloud & Virtualization:** AWS S3, Azure Blob, Object Storage, Hypervisors (VMware ESXi, KVM)
   
 ## 🔗 Connect with Me
