@@ -1,6 +1,6 @@
 # ⚙️ Hi, I'm Rupajiet Bhattacharjee
 
-I am a **Principal Systems Escalation Engineer** with 13+ years of experience.
+I am a **Principal Engineer** with 13+ years of experience.
 
 My work focuses on **deep system-level diagnostics, post-mortem core dump analysis using GDB, and file system internals**. Operating at the principal escalation level, I root-cause the most complex, code-level system failures—such as kernel panics, multi-threading deadlocks, and asynchronous timeout issues—bridging the gap between production environments and core product engineering.
 
