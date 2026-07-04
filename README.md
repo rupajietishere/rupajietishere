@@ -1,8 +1,8 @@
 # ⚙️ Hi, I'm Rupajiet Bhattacharjee
 
-I am a **Systems Diagnostics & Platform Stability Specialist** with 13+ years of experience analyzing complex enterprise software stacks. 
+I am a **Principal Systems Escalation Engineer** with 13+ years of experience.
 
-My expertise lies at the intersection of **Linux systems diagnostics, post-mortem core dump analysis using GDB, and file system internals**. I specialize in root-causing hard-to-reproduce systems issues such as kernel panics, memory corruption, and asynchronous communication timeouts.
+My work focuses on **deep system-level diagnostics, post-mortem core dump analysis using GDB, and file system internals**. Operating at the principal escalation level, I root-cause the most complex, code-level system failures—such as kernel panics, multi-threading deadlocks, and asynchronous timeout issues—bridging the gap between production environments and core product engineering.
 
 ---
 
