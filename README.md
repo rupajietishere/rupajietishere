@@ -1,26 +1,24 @@
-# 👋 Hi, I'm Rupajiet Bhattacharjee
+# ⚙️ Hi, I'm Rupajiet Bhattacharjee
 
-I am a Technical Support Engineer with 13+ years of experience.  
-My work has focused on **Linux system programming**, **core analysis using GDB**, and **filesystem expertise**.  
-I also have hands-on skills in **Python**, **MySQL**, and **cloud/container tooling** (Docker, Kubernetes, Helm).
+I am a **Systems Diagnostics & Platform Stability Specialist** with 13+ years of experience analyzing complex enterprise software stacks. 
 
----
-
-## 🔹 Current Work
-- Supporting and troubleshooting complex systems at Dell Technologies  
-- Specializing in Data Domain Filesystem and Linux Filesystem internals  
-- Working with containerized environments and deployment workflows  
+My expertise lies at the intersection of **Linux systems diagnostics, post-mortem core dump analysis using GDB, and file system internals**. I specialize in root-causing hard-to-reproduce systems issues such as kernel panics, memory corruption, and asynchronous communication timeouts.
 
 ---
 
-## 🔹 Skills Snapshot
-- **Programming:** Python, Linux system programming  
-- **Databases:** MySQL  
-- **Tools:** Docker, Kubernetes, Helm  
-- **Debugging:** Core analysis with GDB  
+### 🛠️ What I Do
+* **Post-Mortem Debugging:** Deep-dive analysis of core files, thread stacks, and memory dumps using GDB to root-cause complex software failures.
+* **Storage & Filesystems:** Troubleshooting and optimizing enterprise-grade storage architectures, with deep expertise in Dell Data Domain Filesystem (DDFS) and Linux filesystem internals.
+* **Platform Reliability:** Building utilities to monitor, diagnose, and automate system triage in containerized (Docker, Kubernetes) and bare-metal environments.
 
 ---
 
+### 🧳 Skills Snapshot
+* **Languages:** C, POSIX C, Python, Shell Scripting (Bash)
+* **Debugging & Diagnostics:** GDB (Advanced), Core File Analysis, Kernel Panic Triage, System Tracing (`strace`, `lsof`)
+* **Databases & Systems:** MySQL, Linux Virtual File System (VFS)
+* **Cloud & DevOps:** Docker, Kubernetes, Helm
+  
 ## 🔗 Connect with Me
 - [LinkedIn](https://linkedin.com/in/rupajiet-bhattacharjee-60932769)  
 - [Email](mailto:rupojit@gmail.com)  
