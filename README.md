@@ -1,6 +1,6 @@
 # ⚙️ Hi, I'm Rupajiet Bhattacharjee
 
-I am a **Principal Systems Engineer** with 14 years of experience specializing in enterprise storage platforms, Linux kernel internals, and low-level C programming.
+I am a **Principal Engineer** with 14 years of experience specializing in enterprise storage platforms, Linux kernel internals, and low-level C programming.
 
 My work focuses on deep system-level diagnostics, post-mortem core dump analysis (GDB/crash utility), and file system architecture. Operating at the principal engineering level, I root-cause complex code-level failures—such as kernel panics, lock contention, memory leaks, and I/O path stalls—bridging the gap between production storage environments and kernel engineering.
 
