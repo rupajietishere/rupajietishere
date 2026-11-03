@@ -34,5 +34,5 @@ My work centers on deep system-level diagnostics, post-mortem core dump analysis
 
 ### 🤝 Connect with Me
 
-*   **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+*   **LinkedIn:** www.linkedin.com/in/rupajiet-bhattacharjee-60932769 
 *   **Email:** rupojit@gmail.com
