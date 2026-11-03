@@ -1,25 +1,37 @@
 # ⚙️ Hi, I'm Rupajiet Bhattacharjee
 
-I am a **Principal Engineer** with 13+ years of experience.
+I am a **Principal Systems Engineer** with 13+ years of experience specializing in enterprise storage platforms, Linux kernel internals, and low-level C programming.
 
-My work focuses on **deep system-level diagnostics, post-mortem core dump analysis using GDB, and file system internals**. Operating at the principal escalation level, I root-cause the most complex, code-level system failures—such as kernel panics, multi-threading deadlocks, and asynchronous timeout issues—bridging the gap between production environments and core product engineering.
-
----
-
-### 🛠️ What I Do
-* **Post-Mortem Debugging:** Deep-dive analysis of core files, thread stacks, and memory dumps using GDB to root-cause complex software failures.
-* **Storage & Filesystems:** Troubleshooting and optimizing enterprise-grade storage architectures, with deep expertise in Dell Data Domain Filesystem (DDFS) and Linux filesystem internals.
-* **Platform Reliability:** Building utilities to monitor, diagnose, and automate system triage in containerized (Docker, Kubernetes) and bare-metal environments.
+My work focuses on deep system-level diagnostics, post-mortem core dump analysis (GDB/crash utility), and file system architecture. Operating at the principal engineering level, I root-cause complex code-level failures—such as kernel panics, lock contention, memory leaks, and I/O path stalls—bridging the gap between production storage environments and kernel engineering.
 
 ---
 
-### 🧳 Skills Snapshot
-* **Languages:** C, POSIX C, Python, Shell Scripting (Bash)
-* **Debugging & Diagnostics:** GDB (Advanced), Core File Analysis, Kernel Panic Triage, System Tracing (`strace`, `lsof`)
-* **Databases & Systems:** MySQL, Linux Virtual File System (VFS)
-* **DevOps & Containers:** Docker, Kubernetes, Helm
-* **Cloud & Virtualization:** AWS S3, Azure Blob, Object Storage, Hypervisors (VMware ESXi, KVM)
-  
-## 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/rupajiet-bhattacharjee-60932769)  
-- [Email](mailto:rupojit@gmail.com)  
+### 🛠️ Core Focus & Engineering Areas
+
+* **Storage & Filesystem Internals:** Deep expertise in Linux Virtual File System (VFS), DDFS (Data Domain Filesystem), extent/inode metadata layouts, inline deduplication, and crash consistency models.
+* **Kernel & Systems Debugging:** Post-mortem crash analysis using `GDB` and `crash`, multi-threaded thread-stack analysis, kernel panic triage, and low-level memory corruption diagnosis.
+* **Low-Level C Programming & System Calls:** Writing high-concurrency C code, implementing system call interfaces, POSIX semantics, and I/O data path optimization.
+
+---
+
+### 🧰 Skills Snapshot
+
+* **Languages:** C, POSIX C, Python, Bash Scripting
+* **Kernel & Systems:** Virtual File System (VFS), Linux Storage Subsystems, Page Cache, Memory Management, Concurrency & Locking
+* **Debugging & Diagnostics:** GDB (Advanced), Kernel `crash` Utility, Core Dump Analysis, System Tracing (`strace`, `ftrace`, `lsof`), KASAN/Lockdep
+* **Storage Technologies:** Enterprise Storage Engines, NVMe/Block I/O, POSIX Filesystems, Object Storage (S3, Blob)
+* **Tools & Platforms:** Linux (Kernel/Userspace), Git, Make/CMake, QEMU/KVM, Containers (Docker)
+
+---
+
+### 🚀 Technical Interests & Projects
+* Developing out-of-tree Linux kernel driver modules & custom character/block devices
+* Investigating filesystem crash-consistency mechanisms and block layer performance
+* Contributing to low-level open-source C and storage utilities
+
+---
+
+### 📫 Connect with Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/rupajiet-bhattacharjee-60932769](https://linkedin.com/in/rupajiet-bhattacharjee-60932769)
+* 📧 **Email:** rupojit@gmail.com
