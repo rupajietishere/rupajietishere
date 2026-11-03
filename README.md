@@ -1,37 +1,38 @@
-# ⚙️ Hi, I'm Rupajiet Bhattacharjee
+# Hi, I'm Rupajiet Bhattacharjee 🛠️
 
-I am a **Principal Engineer** with 14 years of experience specializing in enterprise storage platforms, Linux kernel internals, and low-level C programming.
+I am a **Principal Engineer** with 14 years of experience specializing in enterprise storage architecture, Linux kernel internals, and low-level C systems analysis. 
 
-My work focuses on deep system-level diagnostics, post-mortem core dump analysis (GDB/crash utility), and file system architecture. Operating at the principal engineering level, I root-cause complex code-level failures—such as kernel panics, lock contention, memory leaks, and I/O path stalls—bridging the gap between production storage environments and kernel engineering.
-
----
-
-### 🛠️ Core Focus & Engineering Areas
-
-* **Storage & Filesystem Internals:** Deep expertise in Linux Virtual File System (VFS), DDFS (Data Domain Filesystem), extent/inode metadata layouts, inline deduplication, and crash consistency models.
-* **Kernel & Systems Debugging:** Post-mortem crash analysis using `GDB` and `crash`, multi-threaded thread-stack analysis, kernel panic triage, and low-level memory corruption diagnosis.
-* **Low-Level C Programming & System Calls:** Writing high-concurrency C code, implementing system call interfaces, POSIX semantics, and I/O data path optimization.
+My work centers on deep system-level diagnostics, post-mortem core dump analysis (GDB/crash utility), and architectural file system stability. Operating at the principal engineering level, I isolate complex code-level failures—such as kernel panics, lock contention, memory leaks, and I/O path stalls—bridging the gap between scale-out enterprise storage platforms and kernel-level software reliability.
 
 ---
 
-### 🧰 Skills Snapshot
+### 🧩 Core Focus & Systems Expertise
 
-* **Languages:** C, POSIX C, Python, Bash Scripting
-* **Kernel & Systems:** Virtual File System (VFS), Linux Storage Subsystems, Page Cache, Memory Management, Concurrency & Locking
-* **Debugging & Diagnostics:** GDB (Advanced), Kernel `crash` Utility, Core Dump Analysis, System Tracing (`strace`, `ftrace`, `lsof`), KASAN/Lockdep
-* **Storage Technologies:** Enterprise Storage Engines, NVMe/Block I/O, POSIX Filesystems, Object Storage (S3, Blob)
-* **Tools & Platforms:** Linux (Kernel/Userspace), Git, Make/CMake, QEMU/KVM, Containers (Docker)
+*   **Storage & Filesystem Analysis:** Deep internal knowledge of Linux Virtual File System (VFS), DDFS (Data Domain Filesystem), ext4/XFS metadata layouts, inline deduplication, data protection, page cache mechanics, and crash consistency models.
+*   **Systems Diagnostics & Debugging:** Post-mortem crash analysis using `gdb` and `crash`, multi-threaded thread-stack triage, memory corruption tracking, and complex race-condition isolation.
+*   **Low-Level Systems Programming:** Writing high-concurrency C code, analyzing kernel/userspace system call interfaces, optimizing storage engine data paths, and mastering POSIX semantics.
 
 ---
 
-### 🚀 Technical Interests & Projects
-* Developing out-of-tree Linux kernel driver modules & custom character/block devices
-* Investigating filesystem crash-consistency mechanisms and block layer performance
-* Contributing to low-level open-source C and storage utilities
+### 🛠️ Skills Snapshot
+
+*   **Languages:** C, POSIX C, Python, Bash Scripting
+*   **Kernel & Systems:** Virtual File System (VFS), Linux Storage Subsystems, Page Cache, Memory Management, Concurrency & Locking (Spinlocks, RCU, Mutexes)
+*   **Diagnostics & Performance:** GDB (Advanced), Kernel `crash` Utility, Core Dump Analysis, System Tracing (`strace`, `ftrace`, `lsof`), KASAN / Lockdep
+*   **Storage Technologies:** Enterprise Storage Engines, NVMe/Block I/O, POSIX Filesystems, Distributed Systems Reliability, Data Path Optimization
+*   **Tools & Platforms:** Linux (Kernel/Userspace), Git, Make/CMake, QEMU/KVM, Containers (Docker)
 
 ---
 
-### 📫 Connect with Me
+### 🚀 Systems Engineering & Development Focus
 
-* 💼 **LinkedIn:** [linkedin.com/in/rupajiet-bhattacharjee-60932769](https://linkedin.com/in/rupajiet-bhattacharjee-60932769)
-* 📧 **Email:** rupojit@gmail.com
+*   **Kernel Module Development:** Designing and writing out-of-tree Linux kernel driver modules and custom character/block devices to deepen low-level execution mastery.
+*   **Storage Architecture Engineering:** Investigating filesystem crash-consistency mechanisms, journaling engines, and block-layer queue optimization under extreme concurrent I/O loads.
+*   **Systems Tooling:** Contributing to low-level open-source C utilities, debugging frameworks, and system-level performance benchmarking platforms.
+
+---
+
+### 🤝 Connect with Me
+
+*   **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+*   **Email:** rupojit@gmail.com
